@@ -1,0 +1,9 @@
+---
+title: "Resume"
+format: html
+---
+
+<iframe width="800" height="1000"
+src="Jake A Briseno Resume.pdf">
+
+</iframe>

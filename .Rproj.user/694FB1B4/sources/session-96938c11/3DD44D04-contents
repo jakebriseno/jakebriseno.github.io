@@ -1,0 +1,16 @@
+---
+title: "Jake Briseno"
+image: "Headshot2026.jpg"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: "https://github.com/jakebriseno"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/jake-briseno-00361839a?"
+    - icon: inboxes
+      text: Contact
+      href: mailto:jbriseno@uark.edu
+---
