@@ -14,3 +14,7 @@ about:
       text: Contact
       href: mailto:jbriseno@uark.edu
 ---
+
+## About Me
+
+Hi, I'm Jake Briseno! I am an engineering student at the University of Arkansas studying Industrial Engineering. I enjoy hands-on problem solving, teamwork, and applying skills in engineering, technology, and leadership to real-world projects.
